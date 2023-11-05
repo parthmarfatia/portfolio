@@ -63,7 +63,7 @@ export default function Home() {
                   />
                 </Link>
                 <Link
-                  href="mailto:Awadallaabdallah@gmail.com"
+                  href="mailto:parthmarfatia789@gmail.com"
                   target={"_blank"}
                   className="ml-4 text-lg font-medium capitalize text-dark hover:underline dark:text-light md:text-base"
                 >

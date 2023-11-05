@@ -14,14 +14,14 @@ const Footer = () => {
           </span>{" "}
           by&nbsp;
           <Link
-            href="http://linkedin.com/in/abdallahawadalla/"
+            href="http://linkedin.com/in/parth-marfatia-4a8a1a183/"
             className="underline underline-offset-2"
           >
             Parth Marfatia
           </Link>
         </div>
         <Link
-          href="http://linkedin.com/in/abdallahawadalla/"
+          href="http://linkedin.com/in/parth-marfatia-4a8a1a183/"
           target={"_blank"}
           className="underline underline-offset-2"
         >

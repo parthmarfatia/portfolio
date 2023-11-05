@@ -38,6 +38,6 @@ I completed a twelve-week Software Engineering Immersive boot camp at General As
 
 ## 📬 Get In Touch
 
-Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/abdallahawadalla/) or via [Email](mailto:Awadallaabdallah@email.com). I am open to new opportunities and would love to hear from you!
+Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/parth-marfatia-4a8a1a183/) or via [Email](mailto:Awadallaabdallah@email.com). I am open to new opportunities and would love to hear from you!
 
 Thank you for visiting my portfolio!
